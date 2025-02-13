@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Dhruv Agarwal
+# dhruwen
 
 Welcome to my GitHub profile! I'm a **Red Team Engineer** and **Application Security Specialist** with a passion for learning, building, and securing innovative technologies. My journey spans across software development, web development, and cybersecurity, with hands-on experience in both offensive and defensive security practices.
 
@@ -23,27 +23,23 @@ Welcome to my GitHub profile! I'm a **Red Team Engineer** and **Application Secu
 #### 🔐 **Virtually Testing Foundation** (June 2023 - March 2024)
 - **Role:** Red Team Engineer
 - **Location:** Los Angeles, California, United States
-- Simulated real-world attacks to identify vulnerabilities and improve organizational security measures. Provided actionable insights and recommendations to enhance the overall security posture.
+- Simulated real-world attacks to identify vulnerabilities and improve organizational security measures.
 
 #### 🛡️ **Yuvaarth Technocrats Pvt. Ltd.** (July 2023 - December 2023)
 - **Role:** Application Security Engineer
-- Focused on securing applications by identifying vulnerabilities and implementing robust security measures.
+- Focused on securing applications.
 
 #### 🔒 **Virtually Testing Foundation** (September 2022 - November 2022)
 - **Role:** Information Security Administrator Intern
-- Gained hands-on experience in managing and securing information systems.
+- Gained hands-on experience in information security.
 
 #### 📱 **Tata Consultancy Services** (August 2022 - September 2022)
 - **Role:** Software Developer
-- Developed an Android app with GPS-based navigation powered by QR Code Tracking, using PostgreSQL on Azure for database management.
+- Developed an Android app with GPS powered by QR Code, using PostgreSQL on Azure for database management.
 
 #### 🌐 **ClearExam** (August 2021 - October 2021)
 - **Role:** Web Development Intern
-- Worked on web development projects, enhancing user experiences and building responsive designs.
-
-#### 🎓 **Internshala** (August 2021 - October 2021)
-- **Role:** Internshala Student Partner (ISP) 24
-- Promoted Internshala’s initiatives and helped students access internship opportunities.
+- Worked on Web-Dev and blogger.
 
 ---
 
@@ -80,20 +76,7 @@ Here are some of the projects I’m actively working on or have contributed to:
 - **Language:** C
 - **Status:** Updated on April 20, 2019
 
----
-
-### 📈 GitHub Stats
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruwen&show_icons=true&theme=radical)
-
----
-
-### 📫 Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Email:** [Your Email Address]
-
----
-
 ### 🌱 Future Goals
-- Contribute more to **cybersecurity-focused projects** and **open-source security tools**.
-- Build tools that simplify developer workflows and enhance security practices.
-- Continue learning and sharing knowledge with the tech and security communities.
+- Contribute more learn to be best.
+- Imagine ---> Tech
+- Integrate knowledge of curtural lineage.
