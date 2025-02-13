@@ -15,14 +15,11 @@
 
 ### 🚀 Professional Experience
 
-#### 🛡️ **Yuvaarth Technocrats** (July/23 - Dec/23)
-- Securing applicationsas **Application Security Engineer**.
+#### 🛡️ **Yuvaarth Technocrats:** (July/23 - Dec/23) Secured applicationsas **Application Security Engineer**.
   
-#### 🔐 **VTF** (Sept/22 - Nov/22, June/23 - Mar/24) (Los Angeles, California, US)
-- Simulated real-world attacks and understanding cybersecurity as **Information Security Administrator - Red Team Engineer**.
+#### 🔐 **VTF:** (Sept/22 - Nov/22, June/23 - Mar/24) (Los Angeles, California, US) Simulated real-world attacks and understanding cybersecurity as **Information Security Administrator - Red Team Engineer**.
 
-#### 📱 **TCS** (Aug/22 - Sep/22)
-- As **Software Developer** developed an Android app with GPS powered by QR Code, using PostgreSQL on Azure.
+#### 📱 **TCS:** (Aug/22 - Sep/22) As **Software Developer** developed an Android app with GPS powered by QR Code, using PostgreSQL on Azure.
 
 #### 🌐 **ClearExam** (Aug/21 - Oct/21)
 - As **Web Development Intern** worked on Web-Dev and blogger.
