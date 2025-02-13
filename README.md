@@ -17,7 +17,6 @@
 
 #### 🛡️ **Yuvaarth Technocrats** (July/23 - Dec/23)
 - Securing applicationsas **Application Security Engineer**.
-- .
   
 #### 🔐 **VTF** (Sept/22 - Nov/22, June/23 - Mar/24) (Los Angeles, California, US)
 - Simulated real-world attacks and understanding cybersecurity as **Information Security Administrator - Red Team Engineer**.
@@ -36,8 +35,8 @@
 #### ⚡ **Transitor:** A Zed Editor-based project specially for translation.
 ---
 ### 📂 Contribution Projects
-#### 🌐 **OWASP Top 10 for LLM Applications:** Working on Hindi-Version fron genesis of project (2.0 in way)
-#### 🛠️ **Linutil & Winutil:** Working to add more enhacements in cris project.
+#### 🌐 **OWASP Top 10 for LLM Applications:(2.0 in way)** Working on Hindi-Version from project genesis.
+#### 🛠️ **Linutil & Winutil:** Working to add more enhacements in CrisTech project.
 ---
 #### 🔒 **Chipher_Repo:** Adding more ciphers in bloc project.
 ---
