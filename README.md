@@ -24,14 +24,14 @@
 
 ### 📂 Personal Projects
 
-#### 🔧 **CIH (Crime Investigation Helper):** AI-tool designed to assist in crime investigations.
-#### ⚡ **Transitor:** A Zed Editor-based project specially for translation.
+- 🔧 **CIH (Crime Investigation Helper):** AI-tool designed to assist in crime investigations.
+- ⚡ **Transitor:** A Zed Editor-based project specially for translation.
 ---
 ### 📂 Contribution Projects
-#### 🌐 **OWASP Top 10 for LLM Applications:(2.0 in way)** Working on Hindi-Version from project genesis.
-#### 🛠️ **Linutil & Winutil:** Working to add more enhacements in CrisTech project.
+- 🌐 **OWASP Top 10 for LLM Applications:(2.0 in way)** Working on Hindi-Version from project genesis.
+- 🛠️ **Linutil & Winutil:** Working to add more enhacements in CrisTech project.
 ---
-#### 🔒 **Chipher_Repo:** Adding more ciphers in bloc project.
+- 🔒 **Chipher_Repo:** Adding more ciphers in bloc project.
 ---
 ### 🌱 Goals
 - Contribute more learn to be best.
