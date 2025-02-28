@@ -22,10 +22,8 @@
   <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=v8LYQxpvZ4xX&format=png&color=000000"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=x1wieqREzmXv&format=png&color=000000"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=13495&format=png&color=000000"/>
- 
-	[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruwen&theme=radical&layout=compact)](https://github.com/dhruwen)
 </p>
-
+	[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruwen&theme=radical&layout=compact)](https://github.com/dhruwen)
 ---
 
 ## 🔥 Github Stats
