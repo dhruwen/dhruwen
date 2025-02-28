@@ -26,7 +26,7 @@
 
 ## 🔥 Github Stats
 
-<img align="right" width="50%" heibht="100" src="assets\1372163.jpeg"/>
+<img align="right" width="50%" heibht="200" src="assets\1372163.jpeg"/>
 
   <a href="https://github.com/dhruwen"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=dhruwen&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/dhruwen"><img width="40%" src="http://github-readme-streak-stats.herokuapp.com/?user=dhruwen&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
