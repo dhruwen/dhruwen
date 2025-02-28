@@ -2,10 +2,52 @@
 
 <p align="center"><img src="assets\animation.gif" width="1000" height="600" alt="animation.gif"></p>
 
+<div style="display: flex; justify-content: center; align-items: flex-start;">
+
+<div style="border: 6px solid #111; width: 220px; height: 300px; margin: 10px; padding: 10px; position: relative;">
+  <h3 style="text-align: center;">Left Page</h3>
+  <p>
 - Working on **enhancing myself** and **projects**.
 - Learning more about **emerging tech** and became its part.
 - Ask me about **cryptography** and **LLM security** till now.
 - Enjoy simulating real-world attacks & Love only logical stuff.
+  </p>
+</div>
+
+<div>
+_______<br>
+_______<br>
+_______<br>
+_______<br>
+_______<br>
+_______<br>
+_______<br>
+_______<br>
+_______<br>
+_______<br>
+_______<br>
+_______<br>
+_______<br>
+_______<br>
+_______<br>
+</div>
+
+<div style="border: 6px solid #111; width: 220px; height: 300px; margin: 10px; padding: 10px; position: relative;">
+  <h3 style="text-align: center;">Right Page</h3>
+  <p>
+	  ### 🌱 Goals
+- Contribute more learn to be best.
+- Imagine ---> Tech
+- Integrate knowledge of curtural lineage.
+  </p>
+</div>
+
+</div>
+
+
+
+
+
 
 ---
 
@@ -48,8 +90,3 @@
 <p align="left">
   <a href="https://github.com/dhruwen?tab=repositories&sort"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
----
-### 🌱 Goals
-- Contribute more learn to be best.
-- Imagine ---> Tech
-- Integrate knowledge of curtural lineage.
