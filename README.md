@@ -1,7 +1,6 @@
-# @dhruwen   ![Visitor Count](https://profile-counter.glitch.me/{dhruwen}/count.svg)    <a href="https://github.com/dhruwen?tab=repositories&sort"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+# @dhruwen   ![Visitor Count](https://profile-counter.glitch.me/{dhruwen}/count.svg)
 
 <p align="center"><img src="assets\animation.gif" width="900" height="600" alt="animation.gif"></p>
-
 - Love only logical stuff.
 - Contribute more learn to be best.
 - Imagine ---> Tech
