@@ -1,6 +1,7 @@
 # @dhruwen   ![Visitor Count](https://profile-counter.glitch.me/{dhruwen}/count.svg)
 
 <p align="center"><img src="assets\animation.gif" width="900" height="600" alt="animation.gif"></p>
+
 - Love only logical stuff.
 - Contribute more learn to be best.
 - Imagine ---> Tech
