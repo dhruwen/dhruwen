@@ -37,39 +37,17 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=Tranlator&theme=radical)](https://github.com/dhruwen/Tranlator)
 
 
-## 📘 Contributions
+## 🌐 Contributions
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=www-project-top-10-for-large-language-model-applications&theme=radical)](https://github.com/dhruwen/www-project-top-10-for-large-language-model-applications)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=Chipher_Repo&theme=radical)](https://github.com/dhruwen/Chipher_Repo)
 
-## 📘 CrisTitusRepo
+## ⚡ CrisTitusRepo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=linutil&theme=radical)](https://github.com/dhruwen/linutil)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=winutil&theme=radical)](https://github.com/dhruwen/winutil)
 
 <p align="left">
   <a href="https://github.com/dhruwen?tab=repositories&sort"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
-
-----
-
-### 🚀 Professional Experience
-
-- 🛡️ **Yuvaarth Technocrats:** (July/23 - Dec/23) Secured applicationsas **Application Security Engineer**.
-- 🔐 **VTF:** (Sept/22 - Nov/22, June/23 - Mar/24) (Los Angeles, California, US) Simulated real-world attacks and understanding cybersecurity as **Information Security Administrator - Red Team Engineer**.
-- 📱 **TCS:** (Aug/22 - Sep/22) As **Software Developer** developed an Android app with GPS powered by QR Code, using PostgreSQL on Azure.
-- 🌐 **ClearExam:** (Aug/21 - Oct/21) As **Web Development Intern** worked on Web-Dev and blogger.
-
----
-
-### 📂 Personal Projects
-
-- 🔧 **CIH (Crime Investigation Helper):** AI-tool designed to assist in crime investigations.
-- ⚡ **Transitor:** A Zed Editor-based project specially for translation.
----
-### 📂 Contribution Projects
-- 🌐 **OWASP Top 10 for LLM Applications:(2.0 in way)** Working on Hindi-Version from project genesis.
-- 🛠️ **Linutil & Winutil:** Working to add more enhacements in CrisTech project.
----
-- 🔒 **Chipher_Repo:** Adding more ciphers in bloc project.
 ---
 ### 🌱 Goals
 - Contribute more learn to be best.
