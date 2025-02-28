@@ -1,4 +1,4 @@
-# @dhruwen   ![Visitor Count](https://profile-counter.glitch.me/{dhruwen}/count.svg)
+# @dhruwen   ![Visitor Count](https://profile-counter.glitch.me/{dhruwen}/count.svg)    <a href="https://github.com/dhruwen?tab=repositories&sort"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 <p align="center"><img src="assets\animation.gif" width="900" height="600" alt="animation.gif"></p>
 
@@ -34,11 +34,3 @@
 ## 🌐 Contributions
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=www-project-top-10-for-large-language-model-applications&theme=radical)](https://github.com/dhruwen/www-project-top-10-for-large-language-model-applications)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=Chipher_Repo&theme=radical)](https://github.com/dhruwen/Chipher_Repo)
-
-## ⚡ CrisTitusRepo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=linutil&theme=radical)](https://github.com/dhruwen/linutil)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=winutil&theme=radical)](https://github.com/dhruwen/winutil)
-
-<p align="left">
-  <a href="https://github.com/dhruwen?tab=repositories&sort"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
