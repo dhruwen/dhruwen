@@ -2,72 +2,15 @@
 
 <p align="center"><img src="assets\animation.gif" width="1000" height="600" alt="animation.gif"></p>
 
-<div style="display: flex; justify-content: center; align-items: flex-start;">
-
-<div style="border: 6px solid #111; width: 220px; height: 300px; margin: 10px; padding: 10px; position: relative;">
-  <h3 style="text-align: center;">Left Page</h3>
-  <p>
 - Working on **enhancing myself** and **projects**.
 - Learning more about **emerging tech** and became its part.
 - Ask me about **cryptography** and **LLM security** till now.
 - Enjoy simulating real-world attacks & Love only logical stuff.
-  </p>
-</div>
 
-<div>
-_______<br>
-_______<br>
-_______<br>
-_______<br>
-_______<br>
-_______<br>
-_______<br>
-_______<br>
-_______<br>
-_______<br>
-_______<br>
-_______<br>
-_______<br>
-_______<br>
-_______<br>
-</div>
-
-<div style="border: 6px solid #111; width: 220px; height: 300px; margin: 10px; padding: 10px; position: relative;">
-  <h3 style="text-align: center;">Right Page</h3>
-  <p>
-	  ### 🌱 Goals
+ 	  ### 🌱 Goals
 - Contribute more learn to be best.
 - Imagine ---> Tech
 - Integrate knowledge of curtural lineage.
-  </p>
-</div>
-
-</div>
-
-
-<div style="display: flex; justify-content: center; align-items: flex-start;">
-
-  <div style="border: 4px solid #000; width: 220px; height: 300px; margin: 10px; padding: 10px; background-color:rgb(8, 6, 6); 
-              box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3), inset 0 0 5px rgba(105, 6, 6, 0.5); 
-              position: relative; border-radius: 5px;">
-    <div style="position: absolute; top: 0; left: 0; right: 0; height: 20px; background-color: #ccc; text-align: center; font-weight: bold;">Book Title</div>
-    <h3 style="text-align: center;">Left Page</h3>
-    <p>This is the content on the left page of the book. You can include any text, images, or other elements here. Make it engaging and relatable to draw readers in.</p>
-  </div>
-
-  <div style="border: 4px solid #000; width: 220px; height: 300px; margin: 10px; padding: 10px; background-color:rgb(14, 9, 9); 
-              box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3), inset 0 0 5px rgba(0, 0, 0, 0.5); 
-              position: relative; border-radius: 5px;">
-    <div style="position: absolute; top: 0; left: 0; right: 0; height: 20px; background-color: #ccc; text-align: center; font-weight: bold;">Book Title</div>
-    <h3 style="text-align: center;">Right Page</h3>
-    <p>This is the content on the right page of the book. Feel free to add more information or details relevant to your topic. Use realistic dialogue and relatable scenarios to enhance the narrative.</p>
-  </div>
-
-</div>
-
-
-
-
 ---
 
 ### 💻 Skills & Technologies
