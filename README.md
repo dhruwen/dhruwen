@@ -14,7 +14,7 @@
 ---
 
 ### 💻 Skills & Technologies
-<p>
+<p  align="center">
   <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000"/>
   <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=eMdBqh1N9IWw&format=png&color=000000"/>
   <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=ck2dWKn1phvI&format=png&color=000000"/>
@@ -22,7 +22,7 @@
   <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=x1wieqREzmXv&format=png&color=000000"/>
   <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=13495&format=png&color=000000"/>
 </p>
----
+
 
 ## 🔥 Github Stats
 <img align="right" height="400" width="100%" src="assets\1372162.jpeg"/>
