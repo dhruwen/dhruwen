@@ -33,9 +33,7 @@
 
 ## 📘 My Persnal Flag Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=AccountChooser&theme=radical)](https://github.com/dhruwen/AccountChooser)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=CIH&theme=radical)](https://github.com/dhruwen/CIH)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=Tranlator&theme=radical)](https://github.com/dhruwen/Tranlator)
 
 
