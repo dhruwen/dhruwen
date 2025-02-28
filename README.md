@@ -31,8 +31,7 @@
 ## 🔥 Github Stats
 <img align="right" height="400" width="100%" src="assets\1372162.jpeg"/>
 <a href="https://github.com/dhruwen"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhruwen&theme=radical&title_color=ff3068?"></a>
-
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruwen&theme=radical&layout=compact)](https://github.com/dhruwen)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruwen&theme=radical&layout=compact)](https://github.com/dhruwen)
 
 ## 📘 My Persnal Flag Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=AccountChooser&theme=radical)](https://github.com/dhruwen/AccountChooser)
