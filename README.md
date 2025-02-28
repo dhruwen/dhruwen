@@ -21,7 +21,8 @@
   <img width="8%" style="padding:3px" src="https://img.icons8.com/?size=100&id=v8LYQxpvZ4xX&format=png&color=000000"/>
   <img width="8%" style="padding:3px" src="https://img.icons8.com/?size=100&id=x1wieqREzmXv&format=png&color=000000"/>
   <img width="8%" style="padding:3px" src="https://img.icons8.com/?size=100&id=13495&format=png&color=000000"/>
-
+</p>
+<p>
    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruwen&theme=radical&layout=compact)](https://github.com/dhruwen)
 
  </p>
