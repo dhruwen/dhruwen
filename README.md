@@ -1,6 +1,6 @@
 # @dhruwen   ![Visitor Count](https://profile-counter.glitch.me/{dhruwen}/count.svg)
 
-<p align="center"><img src="assets\animation.gif" width="1000" height="600" alt="animation.gif"></p>
+<p align="center"><img align="right" src="assets\1372162.jpeg"/></p>
 
 - Working on **enhancing myself** and **projects**.
 - Learning more about **emerging tech** and became its part.
@@ -29,7 +29,8 @@
 ---
 
 ## 🔥 Github Stats
-<img align="right" src="assets\1372162.jpeg"/>
+<p align="center"><img src="assets\animation.gif" width="1000" height="600" alt="animation.gif"></p>
+
   <a href="https://github.com/dhruwen"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=dhruwen&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/dhruwen"><img width="40%" src="http://github-readme-streak-stats.herokuapp.com/?user=dhruwen&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
   
