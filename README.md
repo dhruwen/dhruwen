@@ -1,6 +1,6 @@
 # @dhruwen   ![Visitor Count](https://profile-counter.glitch.me/{dhruwen}/count.svg)
 
-<p align="center"><img src="assets\animation.gif" width="1000" height="600" alt="animation.gif"></p>
+<p align="center"><img src="assets\animation.gif" width="900" height="500" alt="animation.gif"></p>
 - Working on **enhancing myself** and **projects**.
 - Learning more about **emerging tech** and became its part.
 - Ask me about **cryptography** and **LLM security** till now.
