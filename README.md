@@ -2,12 +2,7 @@
 
 <p align="center"><img src="assets\animation.gif" width="900" height="600" alt="animation.gif"></p>
 
-- Working on **enhancing myself** and **projects**.
-- Learning more about **emerging tech** and became its part.
-- Ask me about **cryptography** and **LLM security** till now.
-- Enjoy simulating real-world attacks & Love only logical stuff.
-
- 	  ### 🌱 Goals
+- Love only logical stuff.
 - Contribute more learn to be best.
 - Imagine ---> Tech
 - Integrate knowledge of curtural lineage.
