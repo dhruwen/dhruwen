@@ -1,4 +1,4 @@
-# @dhruwen
+# @dhruwen   ![Visitor Count](https://profile-counter.glitch.me/{dhruwen}/count.svg)
 
 <p align="center"><img src="assets\animation.gif" width="1000" height="600" alt="animation.gif"></p>
 
@@ -78,4 +78,4 @@
 - Integrate knowledge of curtural lineage.
 
 #### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{dhruwen}/count.svg)
+
