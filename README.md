@@ -24,7 +24,7 @@
   <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=13495&format=png&color=000000"/>
 </p>
 
-    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruwen&theme=radical&layout=compact)](https://github.com/dhruwen)
+   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruwen&theme=radical&layout=compact)](https://github.com/dhruwen)
 ---
 
 ## 🔥 Github Stats
