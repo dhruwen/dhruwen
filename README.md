@@ -23,7 +23,7 @@
   <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=x1wieqREzmXv&format=png&color=000000"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=13495&format=png&color=000000"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=JHNvegaTfHjR&format=png&color=000000"/>
-	<a href="https://github.com/dhruwen"><img width="48%" src="http://github-readme-streak-stats.herokuapp.com/?user=dhruwen&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+	[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruwen&theme=radical&layout=compact)](https://github.com/dhruwen)
 </p>
 
 ---
@@ -31,7 +31,8 @@
 ## 🔥 Github Stats
 <img align="right" height="400" width="100%" src="assets\1372162.jpeg"/>
 <a href="https://github.com/dhruwen"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhruwen&theme=radical&title_color=ff3068?"></a>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruwen&theme=radical&layout=compact)](https://github.com/dhruwen)
+<a href="https://github.com/dhruwen"><img width="48%" src="http://github-readme-streak-stats.herokuapp.com/?user=dhruwen&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+
 
 ## 📘 My Persnal Flag Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=AccountChooser&theme=radical)](https://github.com/dhruwen/AccountChooser)
