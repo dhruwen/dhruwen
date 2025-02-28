@@ -1,7 +1,6 @@
 # @dhruwen   ![Visitor Count](https://profile-counter.glitch.me/{dhruwen}/count.svg)
 
-<p align="center"><img align="right" src="assets\1372162.jpeg"/></p>
-
+<p align="center"><img src="assets\animation.gif" width="1000" height="600" alt="animation.gif"></p>
 - Working on **enhancing myself** and **projects**.
 - Learning more about **emerging tech** and became its part.
 - Ask me about **cryptography** and **LLM security** till now.
@@ -24,15 +23,13 @@
   <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=13495&format=png&color=000000"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=JHNvegaTfHjR&format=png&color=000000"/>
 </p>
- application security, and 
 
 ---
 
 ## 🔥 Github Stats
-<p align="center"><img src="assets\animation.gif" width="1000" height="600" alt="animation.gif"></p>
-
-  <a href="https://github.com/dhruwen"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=dhruwen&theme=radical&title_color=ff3068?"></a>
-  <a href="https://github.com/dhruwen"><img width="40%" src="http://github-readme-streak-stats.herokuapp.com/?user=dhruwen&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+<img align="right" src="assets\1372162.jpeg"/>
+<a href="https://github.com/dhruwen"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=dhruwen&theme=radical&title_color=ff3068?"></a>
+<a href="https://github.com/dhruwen"><img width="40%" src="http://github-readme-streak-stats.herokuapp.com/?user=dhruwen&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruwen&theme=radical&layout=compact)](https://github.com/dhruwen)
 
