@@ -41,7 +41,6 @@
 
 ## 📘 Contributions
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=www-project-top-10-for-large-language-model-applications&theme=radical)](https://github.com/dhruwen/www-project-top-10-for-large-language-model-applications)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=Chipher_Repo&theme=radical)](https://github.com/dhruwen/Chipher_Repo)
 
 ## 📘 CrisTitusRepo
