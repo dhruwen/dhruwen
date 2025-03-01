@@ -1,3 +1,5 @@
+name: Update TryHackMe Badge
+
 on:
   schedule:
     - cron: '0 0 * * *' # Runs every day at midnight
@@ -5,16 +7,27 @@ on:
 
 jobs:
   update-badge:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: TryHackMe Badge Action Workflow
+    - name: Configure Git Identity
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "actions@github.com"
+
+    - name: Fetch TryHackMe Badge
       uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
       with:
         image_path: './assets/tryhackme-badge.png'
         username: dhruwen
         user_id: dhruwen
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Commit and Push Badge
+      run: |
+        git add ./assets/tryhackme-badge.png
+        git commit -m "Update TryHackMe badge"
+        git push
