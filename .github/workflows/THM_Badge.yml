@@ -2,32 +2,47 @@ name: Update TryHackMe Badge
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
-  workflow_dispatch: # Allows manual triggering
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
   update-badge:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      # Step 1: Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Configure Git Identity
-      run: |
-        git config --global user.name "GitHub Actions Bot"
-        git config --global user.email "actions@github.com"
+      # Step 2: Fetch the TryHackMe badge
+      - name: Fetch TryHackMe Badge
+        run: |
+          curl -sL "https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4183690" -o tryhackme-badge.json
+          jq -r '.badge' tryhackme-badge.json > tryhackme-badge.png
 
-    - name: Fetch TryHackMe Badge
-      uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
-      with:
-        image_path: './assets/tryhackme-badge.png'
-        username: dhruwen
-        user_id: dhruwen
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Step 3: Move the badge to the assets directory
+      - name: Move Badge to Assets Directory
+        run: |
+          mkdir -p assets
+          mv tryhackme-badge.png assets/
 
-    - name: Commit and Push Badge
-      run: |
-        git add ./assets/tryhackme-badge.png
-        git commit -m "Update TryHackMe badge"
-        git push
+      # Step 4: Commit and push the changes
+      - name: Commit and Push Badge
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/tryhackme-badge.png
+          git diff --cached --quiet || git commit -m "Update TryHackMe badge"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 5: Update README.md to include the badge
+      - name: Update README.md
+        run: |
+          echo '![TryHackMe Badge](./assets/tryhackme-badge.png)' >> README.md
+          git add README.md
+          git commit -m "Add TryHackMe badge to README"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
