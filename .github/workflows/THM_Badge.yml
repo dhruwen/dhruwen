@@ -17,8 +17,14 @@ jobs:
       # Step 2: Fetch the TryHackMe badge
       - name: Fetch TryHackMe Badge
         run: |
-          curl -sL "https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4183690" -o tryhackme-badge.json
-          jq -r '.badge' tryhackme-badge.json > tryhackme-badge.png
+          response=$(curl -sL "https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4183690")
+          echo "API Response: $response" # Debug output
+          if echo "$response" | jq . >/dev/null 2>&1; then
+            echo "$response" | jq -r '.badge' > tryhackme-badge.png
+          else
+            echo "Error: Invalid JSON response"
+            exit 1
+          fi
 
       # Step 3: Move the badge to the assets directory
       - name: Move Badge to Assets Directory
