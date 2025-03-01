@@ -1,4 +1,4 @@
-# @dhruwen   ![Visitor Count](https://profile-counter.glitch.me/{dhruwen}/count.svg)   <img src="https://tryhackme-badges.s3.amazonaws.com/dhruwen.png" alt="TryHackMe Badge" width="50%" height="200">
+# @dhruwen   ![Visitor Count](https://profile-counter.glitch.me/{dhruwen}/count.svg)   
 
 <p align="center"><img src="assets\animation.gif" width="900" height="600" alt="animation.gif"></p>
 
@@ -6,6 +6,9 @@
 - Contribute more learn to be best.
 - Imagine ---> Tech
 - Integrate knowledge of curtural lineage.
+
+![TryHackMe Badge]"https://tryhackme-badges.s3.amazonaws.com/dhruwen.png)
+
 ---
 
 ### 💻 Skills & Technologies
