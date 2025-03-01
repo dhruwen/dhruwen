@@ -15,6 +15,6 @@ jobs:
       uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
       with:
         image_path: './assets/tryhackme-badge.png'
-        username: ${{ secrets.USERNAME }}
-        user_id: ${{ secrets.USERNAME }}
+        username: dhruwen
+        user_id: dhruwen
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
