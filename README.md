@@ -1,6 +1,4 @@
-# @dhruwen   ![Visitor Count](https://profile-counter.glitch.me/{dhruwen}/count.svg)   
-
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/dhruwen.png)
+# @dhruwen   ![Visitor Count](https://profile-counter.glitch.me/{dhruwen}/count.svg)   ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/dhruwen.png)
 
 <p align="center"><img src="assets\animation.gif" width="900" height="600" alt="animation.gif"></p>
 
