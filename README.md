@@ -9,7 +9,7 @@
 - Imagine ---> Tech
 - Integrate knowledge of curtural lineage.
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/dhruwen.png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/dhruwen.png)  <img src="[assets\animation.gif](https://assets.tryhackme.com/img/badges/streak7.svg)" width="90" height="60" alt="animation.gif"></p>
 
 ---
 
