@@ -31,6 +31,7 @@
 ![dhruwen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruwen&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
 
 ## My Publications  <img align="right" height="20" width="10%" border="rounded" src="https://ieeexplore.ieee.org/assets/img/xplore_logo_white.svg">
+<img align="right" height="20" width="10%" border="rounded" src="https://owasp.org/assets/images/logo.png">
 - <a href="https://doi.org/10.1109/acroset62108.2024.10743727"> Legal Framework for Digital India (ACROSET)
 DOI: 10.1109/acroset62108.2024.10743727 
 </a>
