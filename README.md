@@ -34,16 +34,13 @@
 
 
 
-## &ea4b; My Publications  &ensp; <img height="23" width="10%" border="rounded" src="https://owaspsamm.org//img/owasp_logo_1c_w_notext.png"> &ensp; <img height="20" width="10%" border="rounded" src="https://ieeexplore.ieee.org/assets/img/xplore_logo_white.svg">
+## 🔬 My Publications  &ensp; <img height="23" width="10%" border="rounded" src="https://owaspsamm.org//img/owasp_logo_1c_w_notext.png"> &ensp; <img height="20" width="10%" border="rounded" src="https://ieeexplore.ieee.org/assets/img/xplore_logo_white.svg">
 
 - Legal Framework for Digital India (ACROSET)
 <a href="https://doi.org/10.1109/acroset62108.2024.10743727">DOI: 10.1109/acroset62108.2024.10743727 </a>
-
 - SAILFISH-I: A Lightweight Block Cipher for Cloud-Enabled Fog Devices
   <a href="https://doi.org/10.1109/cict56698.2022.9997844"> DOI: 10.1109/cict56698.2022.9997844 </a>
-
 - LLM Top 10 for LLMs 2024 – <a href="https://genaisecurityproject.com/resources/?e-filter-3b7adda-language=hindi">Hindi</a>
-
 - LLM Top 10 for LLMs 2025 – in process
 
 
