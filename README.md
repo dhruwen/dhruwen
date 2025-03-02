@@ -25,7 +25,6 @@
 </p>
 
 
----
 
 ## 🔥 Github Stats
 <img align="right" height="400" src="assets\1372163.jpeg"/>
@@ -35,7 +34,6 @@
 ![dhruwen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruwen&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
 
 
----
 
 ## My Publications  &ensp; <img height="23" width="10%" border="rounded" src="https://owaspsamm.org//img/owasp_logo_1c_w_notext.png"> &ensp; <img height="20" width="10%" border="rounded" src="https://ieeexplore.ieee.org/assets/img/xplore_logo_white.svg">
 
@@ -50,7 +48,6 @@
 - LLM Top 10 for LLMs 2025 – in process
 
 
----
 
 ## 📘 My Persnal Flag Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=AccountChooser&theme=radical)](https://github.com/dhruwen/AccountChooser)
@@ -58,7 +55,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=Tranlator&theme=radical)](https://github.com/dhruwen/Tranlator)
 
 
----
 
 ## 🌐 Contributions
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=www-project-top-10-for-large-language-model-applications&theme=radical)](https://github.com/dhruwen/www-project-top-10-for-large-language-model-applications)
