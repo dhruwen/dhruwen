@@ -38,6 +38,10 @@
 - SAILFISH-I: A Lightweight Block Cipher for Cloud-Enabled Fog Devices
   <a href="https://doi.org/10.1109/cict56698.2022.9997844"> DOI: 10.1109/cict56698.2022.9997844 </a>
 
+- LLM Top 10 for LLMs 2024 – <a href="https://genaisecurityproject.com/resources/?e-filter-3b7adda-language=hindi">Hindi</a>
+
+- LLM Top 10 for LLMs 2025 – in process
+
 ## 📘 My Persnal Flag Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=AccountChooser&theme=radical)](https://github.com/dhruwen/AccountChooser)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=CIH&theme=radical)](https://github.com/dhruwen/CIH)
