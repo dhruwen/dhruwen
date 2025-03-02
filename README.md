@@ -34,7 +34,7 @@
 
 
 
-## <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M200-120q-51 0-72.5-45.5T138-250l222-270v-240h-40q-17 0-28.5-11.5T280-800q0-17 11.5-28.5T320-840h320q17 0 28.5 11.5T680-800q0 17-11.5 28.5T640-760h-40v240l222 270q32 39 10.5 84.5T760-120H200Zm0-80h560L520-492v-268h-80v268L200-200Zm280-280Z"/></svg> My Publications  &ensp; <img height="23" width="10%" border="rounded" src="https://owaspsamm.org//img/owasp_logo_1c_w_notext.png"> &ensp; <img height="20" width="10%" border="rounded" src="https://ieeexplore.ieee.org/assets/img/xplore_logo_white.svg">
+## &ea4b; My Publications  &ensp; <img height="23" width="10%" border="rounded" src="https://owaspsamm.org//img/owasp_logo_1c_w_notext.png"> &ensp; <img height="20" width="10%" border="rounded" src="https://ieeexplore.ieee.org/assets/img/xplore_logo_white.svg">
 
 - Legal Framework for Digital India (ACROSET)
 <a href="https://doi.org/10.1109/acroset62108.2024.10743727">DOI: 10.1109/acroset62108.2024.10743727 </a>
