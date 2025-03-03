@@ -9,8 +9,7 @@
 - Imagine ---> Tech
 - Integrate knowledge of curtural lineage.
 
-  <img src="https://assets.tryhackme.com/img/badges/streak7.svg" width="90" height="60">
- <img src="https://assets.tryhackme.com/img/badges/linux.svg" width="90" height="60">
+ <img src="https://assets.tryhackme.com/img/badges/streak7.svg" width="90" height="60">  <img src="https://assets.tryhackme.com/img/badges/linux.svg" width="90" height="60">
 
 ---
 
