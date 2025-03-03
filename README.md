@@ -49,7 +49,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=CIH&theme=radical)](https://github.com/dhruwen/CIH)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruwen&repo=Tranlator&theme=radical)](https://github.com/dhruwen/Tranlator)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/dhruwen.png" alt="Your Image Badge">
+<img src="https://tryhackme-badges.s3.amazonaws.com/dhruwen123.png" alt="Your Image Badge" />
 
 
 
