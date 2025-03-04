@@ -30,8 +30,8 @@
 
 ## 🔥 Github Stats
 <img align="right" height="400" src="assets\1372163.jpeg"/>
-<a align="left" href="https://github.com/dhruwen"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=dhruwen&theme=radical&title_color=ff3068?"></a>
-<a align="left" href="https://github.com/dhruwen"><img width="45%" src="http://github-readme-streak-stats.herokuapp.com/?user=dhruwen&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+<a align="left" href="https://github.com/dhruwen"><img width="47%" src="https://github-readme-stats.vercel.app/api?username=dhruwen&theme=radical&title_color=ff3068?"></a>
+<a align="left" href="https://github.com/dhruwen"><img width="47%" src="http://github-readme-streak-stats.herokuapp.com/?user=dhruwen&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 ![dhruwen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruwen&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
 
