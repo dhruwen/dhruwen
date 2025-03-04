@@ -39,7 +39,7 @@
 <a href="https://doi.org/10.1109/acroset62108.2024.10743727">DOI: 10.1109/acroset62108.2024.10743727 </a>
 - SAILFISH-I: A Lightweight Block Cipher for Cloud-Enabled Fog Devices
   <a href="https://doi.org/10.1109/cict56698.2022.9997844"> DOI: 10.1109/cict56698.2022.9997844 </a>
-- LLM Top 10 for LLMs 2024 – [![llmtop10.com](https://img.shields.io/badge/officialsite-llmtop10.com-032CFA.svg)](https://genaisecurityproject.com/resources/?e-filter-3b7adda-language=hindi)
+- LLM Top 10 for LLMs 2024 – [![llmtop10.com](https://img.shields.io/badge/LT-llmtop10.com-032CFA.svg)](https://genaisecurityproject.com/resources/?e-filter-3b7adda-language=hindi)
 - LLM Top 10 for LLMs 2025 – in process
 
 
