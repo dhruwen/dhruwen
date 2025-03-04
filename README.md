@@ -15,7 +15,7 @@
 
 ### 💻 Skills & Technologies
 <p  align="center">
-  <img width="12%" height="5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000"/>
+  <img width="5%" height="5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000"/>
   <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=eMdBqh1N9IWw&format=png&color=000000"/>
   <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=ck2dWKn1phvI&format=png&color=000000"/>
   <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=v8LYQxpvZ4xX&format=png&color=000000"/>
