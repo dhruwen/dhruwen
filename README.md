@@ -16,14 +16,13 @@
 ### 💻 Skills & Technologies
 <p  align="center">
   <img width="5%" height="5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000"/>
-  <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=eMdBqh1N9IWw&format=png&color=000000"/>
-  <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=ck2dWKn1phvI&format=png&color=000000"/>
-  <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=v8LYQxpvZ4xX&format=png&color=000000"/>
-  <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=x1wieqREzmXv&format=png&color=000000"/>
-  <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=13495&format=png&color=000000"/>
-  <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=29a6ubG1s7cw&format=png&color=000000"/>
-  <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=12382&format=png&color=000000"/>
-
+  <img width="5%" height="5%"" style="padding:5px" src="https://img.icons8.com/?size=100&id=eMdBqh1N9IWw&format=png&color=000000"/>
+  <img width="5%" height="5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=ck2dWKn1phvI&format=png&color=000000"/>
+  <img width="5%" height="5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=v8LYQxpvZ4xX&format=png&color=000000"/>
+  <img width="5%" height="5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=x1wieqREzmXv&format=png&color=000000"/>
+  <img width="5%" height="5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=13495&format=png&color=000000"/>
+  <img width="5%" height="5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=29a6ubG1s7cw&format=png&color=000000"/>
+  <img width="5%" height="5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=12382&format=png&color=000000"/>
 </p>
 
 
