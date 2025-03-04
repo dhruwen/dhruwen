@@ -21,6 +21,8 @@
   <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=v8LYQxpvZ4xX&format=png&color=000000"/>
   <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=x1wieqREzmXv&format=png&color=000000"/>
   <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=13495&format=png&color=000000"/>
+  <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=29a6ubG1s7cw&format=png&color=000000"/>
+  <img width="12%" style="padding:5px" src="https://img.icons8.com/?size=100&id=10446&format=png&color=000000"/>
 </p>
 
 
