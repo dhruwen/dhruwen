@@ -1,4 +1,4 @@
-# @dhruwen   ![Visitor Count](https://profile-counter.glitch.me/{dhruwen}/count.svg)   [![GitHub Streak](https://streak-stats.demolab.com?user=dhruwen&theme=onedark-duo&hide_border=false&border_radius=5.4&locale=hi&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=100&card_height=182)](https://git.io/streak-stats)
+# @dhruwen   ![Visitor Count](https://profile-counter.glitch.me/{dhruwen}/count.svg)   [![GitHub Streak](https://streak-stats.demolab.com?user=dhruwen&theme=onedark-duo&hide_border=false&border_radius=5.4&locale=hi&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=100&card_height=100)](https://git.io/streak-stats)
 
 <p align="center"><img src="assets\animation.gif" width="900" height="600" alt="animation.gif"></p>
 
