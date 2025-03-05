@@ -1,7 +1,5 @@
 # @dhruwen   ![Visitor Count](https://profile-counter.glitch.me/{dhruwen}/count.svg) 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dhruwen&theme=dark)](https://git.io/streak-stats)
-
 <p align="center"><img src="assets\animation.gif" width="900" height="600" alt="animation.gif"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruwen&label=Profile%20views&color=0e75b6&style=flat" alt="dhruwen" /> </p>
@@ -33,7 +31,9 @@
 ## 🔥 Github Stats
 <img align="right" height="400" src="assets\1372163.jpeg"/>
 <a align="left" href="https://github.com/dhruwen"><img width="47%" src="https://github-readme-stats.vercel.app/api?username=dhruwen&theme=radical&title_color=ff3068?"></a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dhruwen&theme=dark" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dhruwen&theme=dark)](https://git.io/streak-stats)
+
 
 ![dhruwen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruwen&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
 
