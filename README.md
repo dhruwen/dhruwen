@@ -31,7 +31,6 @@
 ## 🔥 Github Stats
 <img align="right" height="400" src="assets\1372163.jpeg"/>
 <a align="left" href="https://github.com/dhruwen"><img width="47%" src="https://github-readme-stats.vercel.app/api?username=dhruwen&theme=radical&title_color=ff3068?"></a>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=dhruwen&theme=onedark-duo&hide_border=false&border_radius=5.4&locale=hi&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=100&card_height=100)](https://git.io/streak-stats)
 
 ![dhruwen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruwen&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
