@@ -43,8 +43,8 @@
 
 - SAILFISH-I: A Lightweight Block Cipher for Cloud-Enabled Fog Devices [![Research](https://img.shields.io/badge/DOI-10.1109/cict56698.2022.9997844-032CFA.svg)](https://doi.org/10.1109/cict56698.2022.9997844)
 - Legal Framework for Digital India [![Research](https://img.shields.io/badge/DOI-10.1109/acroset62108.2024.10743727-032CFA.svg)](https://doi.org/10.1109/acroset62108.2024.10743727)
-- LLM Top 10 for LLMs 2024  [![अनुवाद](https://img.shields.io/badge/HI-IN-llmtop10.com-032CFA.svg)](https://genaisecurityproject.com/resources/?e-filter-3b7adda-language=hindi)
-- LLM Top 10 for LLMs 2025  [![अनुवाद](https://img.shields.io/badge/HI-IN-comming-soon-032CFA.svg)](https://genaisecurityproject.com/resource/owasp-top-10-for-llm-applications-2025/)
+- LLM Top 10 for LLMs 2024  [![अनुवाद](https://img.shields.io/badge/HI-llmtop10.com-032CFA.svg)](https://genaisecurityproject.com/resources/?e-filter-3b7adda-language=hindi)
+- LLM Top 10 for LLMs 2025  [![अनुवाद](https://img.shields.io/badge/HI-comming-soon-032CFA.svg)](https://genaisecurityproject.com/resource/owasp-top-10-for-llm-applications-2025/)
 
 
 
