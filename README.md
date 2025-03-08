@@ -32,7 +32,7 @@
 <img align="right" height="400" src="assets\1372163.jpeg"/>
 <a align="left" href="https://github.com/dhruwen"><img width="47%" src="https://github-readme-stats.vercel.app/api?username=dhruwen&theme=radical&title_color=ff3068?"></a>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruwen&hide=css,html,typescript,scilab&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruwen&hide=css,html,Inno_setup,typescript,scilab&theme=tokyonight)
 
 
 ![dhruwen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruwen&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
